@@ -16,7 +16,7 @@ VALUES
     'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sagittis tristique leo, eu cursus erat. In laoreet quis nisi sit amet congue. Pellentesque dignissim imperdiet sodales. Sed varius consectetur neque. Nulla bibendum sodales erat, sit amet commodo lectus fermentum at.'
   );
 
-  INSERT INTO
+INSERT INTO
   autores (nome, email, data_nascimento, mini_curriculo)
 VALUES
   (
