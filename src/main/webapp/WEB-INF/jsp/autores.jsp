@@ -44,7 +44,7 @@
 	</section>
 
 	<section class="container card mt-5 p-4">
-		<h1 class="text-center">Lista de Autores</h1>
+		<h2 class="text-uppercase text-center">Lista de Autores</h2>
 
 		<table class="table table-hover table-striped table-border">
 			<thead class="table-primary">
