@@ -1,4 +1,4 @@
-package com.thiagorodrigues.factory;
+package com.thiagorodrigues.livraria.factory;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

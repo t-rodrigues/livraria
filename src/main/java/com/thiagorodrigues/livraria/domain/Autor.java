@@ -1,4 +1,4 @@
-package com.thiagorodrigues.domain;
+package com.thiagorodrigues.livraria.domain;
 
 import java.time.LocalDate;
 

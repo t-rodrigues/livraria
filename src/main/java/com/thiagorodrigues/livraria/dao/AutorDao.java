@@ -1,10 +1,14 @@
-package com.thiagorodrigues.dao;
+package com.thiagorodrigues.livraria.dao;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.Date;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.thiagorodrigues.domain.Autor;
+import com.thiagorodrigues.livraria.domain.Autor;
 
 public class AutorDao {
 

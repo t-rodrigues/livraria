@@ -1,4 +1,4 @@
-package com.thiagorodrigues.servlet;
+package com.thiagorodrigues.livraria.servlet;
 
 import java.io.IOException;
 import java.time.LocalDate;
@@ -11,9 +11,9 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import com.thiagorodrigues.dao.AutorDao;
-import com.thiagorodrigues.domain.Autor;
-import com.thiagorodrigues.factory.ConnectionFactory;
+import com.thiagorodrigues.livraria.dao.AutorDao;
+import com.thiagorodrigues.livraria.domain.Autor;
+import com.thiagorodrigues.livraria.factory.ConnectionFactory;
 
 @WebServlet("/autores")
 public class AutorServlet extends HttpServlet {
